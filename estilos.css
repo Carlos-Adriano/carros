@@ -1,0 +1,41 @@
+body{
+    background-color: beige;
+    font-family: tahoma;
+}
+.topo-fixed{
+    width: 100%;
+    background-color: #000;
+    border-bottom: 1px solid #d5960054;
+    padding-top: 15px;
+    padding-bottom: 2px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+p{
+    font-size: 16px;
+    text-align: justify;
+}
+span{
+    color: yellow;
+    font-weight: bold;
+}
+img{
+    width: 452px;
+    left: 0;
+}
+.direcao{
+    text-decoration: none;
+    text-align: center;
+    border: #eec1c1 1px solid;
+    border-radius: 45px;
+    padding: 1px 6px;
+    color: white;
+}
+.contato{
+    text-decoration: none;
+    border: #eec1c1 1px solid;
+    border-radius: 45px;
+    padding: 5px;
+    background-color: green;
+}
